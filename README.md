@@ -9,3 +9,7 @@ Table of contents
 
 •	Jupyter notebook
 
+
+•	Medium article: https://medium.com/@bdwinter10/who-hangs-around-stack-overflow-6d8343591959
+
+
