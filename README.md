@@ -4,6 +4,8 @@ This program was an analysis of the characteristics of respondents from stack ov
 
 Table of contents
 
-•	Datasets
+•	Datasets (please email bdwinter10@gmail.com for actual datasets)
+
+
 •	Jupyter notebook
 
